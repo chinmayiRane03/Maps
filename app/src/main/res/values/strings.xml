@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="loc_name">CurrentLocation</string>
+    <string name="map_key" translatable="false">
+        AIzaSyDTBr8P8NwoeGIYPqqzyZahaFRkFgtOHJk
+    </string>
+    <string name="app_name">bottom</string>
+</resources>
